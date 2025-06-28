@@ -1,5 +1,5 @@
 # Bank-Management-System
-**A peject in C to demonstrate the file storage manipulation in C **
+**A project to demonstrate the file storage manipulation in C **
 
 This is a Bank Management System project developed in C. It provides functionalities for user account management, including deposit, withdrawal, balance check, new account registration, and password changes. The system is designed with clarity and modularity in mind.
 
